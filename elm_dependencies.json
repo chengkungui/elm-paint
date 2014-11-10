@@ -1,0 +1,12 @@
+{
+    "version": "0.1.0",
+    "summary": "",
+    "description": "",
+    "license": "BSD3",
+    "exposed-modules": [],
+    "elm-version": "0.13",
+    "dependencies": {
+        "piotrcyr/elm-filereader": "0.2.0.4"
+    },
+    "repository": "https://github.com/chengkungui/elm-paint.git"
+}
